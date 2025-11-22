@@ -77,7 +77,9 @@ This dashboard helps stakeholders understand:
 ---
 
 ## 🖼 Dashboard Preview
-(./Dashboard3.png)
+![Public Dashboard](./Dashboard3.png)
+
+
 
 
 
